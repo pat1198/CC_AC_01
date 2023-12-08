@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: aquamarine;
+    position: absolute;
+    inset: 80px;
+    display: flex;
+    justify-content: center; 
+}
+.h1 {
+    
+}
